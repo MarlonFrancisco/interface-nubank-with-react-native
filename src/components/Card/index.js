@@ -52,8 +52,8 @@ export default () => {
           ],
         }}>
         <Header>
-          <Icon name="attach-money" size={18} color="#666" />
-          <Icon name="visibility-off" size={18} color="#666" />
+          <Icon name="attach-money" size={28} color="#666" />
+          <Icon name="visibility-off" size={28} color="#666" />
         </Header>
 
         <Content>
